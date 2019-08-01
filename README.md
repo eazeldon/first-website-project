@@ -1,7 +1,7 @@
 # Milestone web-project-1 
 
 This is my very first web site and my first milestone project during
-my studies at the Code Institute.
+my studies at the Code Institute. https://eazeldon.github.io/first-website-project/
 
 ## Concept
 
