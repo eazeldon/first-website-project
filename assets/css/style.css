@@ -189,6 +189,11 @@ footer {
 .three-reasons-heading {
     margin-bottom: 15px;
 }
+video {
+    width: 300;
+    height: auto;
+}    
+    
 /* ----------------------------------------Personal Info */
 .personal-info-item {
     margin-bottom: 20px;
